@@ -1,3 +1,45 @@
 [submodule "dotbot"]
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
+[submodule "nvim/bundle/ctrlp.vim"]
+	path = nvim/bundle/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "nvim/bundle/ack.vim"]
+	path = nvim/bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "nvim/bundle/elm.vim"]
+	path = nvim/bundle/elm.vim
+	url = https://github.com/lambdatoast/elm.vim.git
+[submodule "nvim/bundle/julia-vim"]
+	path = nvim/bundle/julia-vim
+	url = git://github.com/JuliaLang/julia-vim.git
+[submodule "nvim/bundle/nerdtree"]
+	path = nvim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "nvim/bundle/vim-commentary"]
+	path = nvim/bundle/vim-commentary
+	url = git://github.com/tpope/vim-commentary.git
+[submodule "nvim/bundle/vim-elixir"]
+	path = nvim/bundle/vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "nvim/bundle/vim-fugitive"]
+	path = nvim/bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "nvim/bundle/vim-markdown"]
+	path = nvim/bundle/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "nvim/bundle/vim-mix"]
+	path = nvim/bundle/vim-mix
+	url = git://github.com/mattonrails/vim-mix.git
+[submodule "nvim/bundle/vim-projectionist"]
+	path = nvim/bundle/vim-projectionist
+	url = git://github.com/tpope/vim-projectionist.git
+[submodule "nvim/bundle/vim-surround"]
+	path = nvim/bundle/vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "nvim/bundle/vim-vinegar"]
+	path = nvim/bundle/vim-vinegar
+	url = git://github.com/tpope/vim-vinegar.git
+[submodule "nvim/bundle/Vundle.vim"]
+	path = nvim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git

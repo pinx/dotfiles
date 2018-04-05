@@ -9,5 +9,5 @@
     ~/.vimrc: vimrc
     ~/.zshenv: zshenv
     ~/.zshrc: zshrc
-
+    ~/config/nvim: nvim
 

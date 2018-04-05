@@ -11,7 +11,7 @@ alias lsa='ls -lhaGFr'
 alias nicedate='date "+%Y-%m-%d"'
 alias nicedatetime='date "+%Y-%m-%d %H:%M"'
 alias marked='open -a Marked'
-alias -g bb='`git rev-parse --abbrev-ref HEAD`'
+# alias -g bb='`git rev-parse --abbrev-ref HEAD`' 
 
 function ffind() {
   find -E . -type f -regex ".*$@.*"
@@ -94,8 +94,5 @@ alias gz='git archive -o snapshot.zip HEAD'
 function gg() {
     git commit -v -a -m "$*"
 }
-
-export FULCRUM_API_KEY=702ac17ace8a578ea1b2a7f32bfe686c82fc33f0406054027d0e527365f80705d40d8b955b9e702b
-
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
